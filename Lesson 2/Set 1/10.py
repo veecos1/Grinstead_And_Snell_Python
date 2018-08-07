@@ -19,3 +19,4 @@ plt.hist(xs, bins=10, density=True)
 plt.plot(x1, y1, color="red", lw=2)
 plt.show()
 #constant is 1/2
+#If the area under integration is between 0.2 to 0.5
