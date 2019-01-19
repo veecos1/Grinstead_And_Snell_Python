@@ -1,7 +1,5 @@
 # Python Programs for Grinstead and Snell Exercises
-This repository is supposed to provide the python programs for Grinstead and Snell exercises. As their exercises are written in Mathematica, I aim to write python code for all the exercises.
-
-I started this work on the 28th of July 2018 as I have a keen interest in python as well as probability and realized there is no repository which contains all the programs as such in python.
+This repository is supposed to provide the python programs for Grinstead and Snell exercises. As their exercises are written in Mathematica, I aim to write python code for all the exercises. I have a keen interest in python as well as probability and realized there is no repository which contains all the programs as such in python.
 
 # Structure
 
@@ -17,4 +15,4 @@ I am skilled in quant research and quant trading and am very handy with C++ and 
 
 
 # Contact Information
-Please feel free to reach out to me at vm2482@columbia.edu
+Please feel free to reach out to me at vicky.idea@gmail.com
